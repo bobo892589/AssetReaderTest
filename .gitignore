@@ -1,0 +1,9 @@
+AssetReaderTest.xcodeproj/project.xcworkspace/
+AssetReaderTest.xcodeproj/xcuserdata/
+AssetReaderTest.xcworkspace/xcuserdata/
+AssetReaderTest.xcworkspace/xcshareddata/
+Pods/Pods.xcodeproj/project.xcworkspace/
+Pods/Pods.xcodeproj/xcuserdata/
+Build/
+Archive/
+.DS_Store
